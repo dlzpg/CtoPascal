@@ -1,0 +1,13 @@
+void main(void){
+    return hola;
+}
+int func(int a, int b){
+    int c;
+    c= a + (b * 2) + a / 8;
+    return c;
+}
+float func2(float a, float b){
+    float g;
+    g= a * a / b + 3.2;
+    return g;
+}

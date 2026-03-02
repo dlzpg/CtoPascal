@@ -1,0 +1,10 @@
+int func(int a, int b, float r, int v, float f, void g, int j){
+    for(i = 0; i<b; i= i + 4){
+        a= a + i;
+    }
+    while(v <= a){
+        v= v + a;
+    }
+
+    return a;
+}

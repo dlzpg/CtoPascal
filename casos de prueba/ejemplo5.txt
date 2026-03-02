@@ -1,0 +1,8 @@
+#define numero 4.43
+void main(void){
+    return hola;
+}
+int noReturn(int h, float v){
+    int j
+    return h;
+}

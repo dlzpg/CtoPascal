@@ -1,0 +1,13 @@
+#define numero 4.43
+#define palabra 23.4
+#define lista 43
+
+void main(){
+    return hola;
+}
+int nota(int notaFinal){
+    while(notaFinal < 7){
+        notaFinal = notaFinal + 1;
+    }
+    return notaFinal;
+}

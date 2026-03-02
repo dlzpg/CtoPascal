@@ -1,0 +1,7 @@
+float cubo(float r){
+    int noFunciona(int hola){
+        return mal;
+    }
+    r= r*r;
+    return r;
+}

@@ -1,0 +1,11 @@
+#define si 30
+int func(int a, int b){
+    return c;
+}
+void main(void){
+    return nada;
+}s
+float estoDeberiaFuncionar( int t){
+    t= 6.7;
+    return t;
+}

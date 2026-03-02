@@ -1,0 +1,22 @@
+#define pregunta 1234
+#define valor 0.34
+
+void main(void){
+    int h1;
+    int h2;
+    float asdf;
+    return ma;
+}
+
+int vacio( int c, float numero, int h, void nada, float g){
+    int asdf;
+    int a;
+    float as;
+    float m;
+    if ( a>= 4){
+        a= c;
+    }else{
+        a=m;
+    }
+    return a;
+}
