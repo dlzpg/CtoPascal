@@ -2,7 +2,7 @@
 
 A syntax-directed translator that converts C-style preprocessor directives and variable declarations into **Pascal (`.pas`)** source code. This project was developed using **ANTLR4** and **Java**.
 
-Collaborator: **[Jorge Fuentes]([https://github.com/JFuB](https://github.com/JorgeFuentesBarrio))**
+Collaborator: **[Jorge Fuentes](https://github.com/JorgeFuentesBarrio)**
 
 ---
 
